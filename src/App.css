@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+.wrapper-download-button {
+  position: absolute;
+  right: 10px;
+  top: 13px;
+}
+
+.wrapper-empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

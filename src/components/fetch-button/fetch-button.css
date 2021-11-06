@@ -1,0 +1,15 @@
+.ant-btn-circle {
+  border-color: green !important;
+}
+
+.ant-btn-circle:hover {
+  border-color: rgb(91, 214, 255) !important;
+}
+
+.ant-btn-icon-only {
+  color: green !important;
+}
+
+.ant-btn-icon-only:hover {
+  color: rgb(91, 214, 255) !important;
+}
